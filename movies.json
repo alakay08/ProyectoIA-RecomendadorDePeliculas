@@ -1,0 +1,282 @@
+[
+  {
+    "id": 1,
+    "titulo": "The Matrix",
+    "año": 1999,
+    "duracion": 136,
+    "generos": {"Accion": 0.9, "Comedia": 0.0, "Drama": 0.4, "Sci-Fi": 1.0, "Terror": 0.1, "Fantasia": 0.3},
+    "estado_animo": {"Alegre": 0.0, "Intenso": 0.8, "Reflexivo": 0.2, "Palomero": 0.0},
+    "intensidad": 0.9,
+    "poster": "https://m.media-amazon.com/images/I/51EG732BV3L._AC_UF894,1000_QL80_.jpg"
+  },
+  {
+    "id": 2,
+    "titulo": "Forrest Gump",
+    "año": 1994,
+    "duracion": 142,
+    "generos": {"Accion": 0.2, "Comedia": 0.6, "Drama": 1.0, "Sci-Fi": 0.0, "Terror": 0.0, "Fantasia": 0.1},
+    "estado_animo": {"Alegre": 0.5, "Intenso": 0.1, "Reflexivo": 0.4, "Palomero": 0.0},
+    "intensidad": 0.4,
+    "poster": "https://m.media-amazon.com/images/I/41z119T1aGL._AC_UF894,1000_QL80_.jpg"
+  },
+  {
+    "id": 3,
+    "titulo": "El Señor de los Anillos: La Comunidad del Anillo",
+    "año": 2001,
+    "duracion": 178,
+    "generos": {"Accion": 0.8, "Comedia": 0.1, "Drama": 0.5, "Sci-Fi": 0.0, "Terror": 0.2, "Fantasia": 1.0},
+    "estado_animo": {"Alegre": 0.1, "Intenso": 0.7, "Reflexivo": 0.1, "Palomero": 0.1},
+    "intensidad": 0.8,
+    "poster": "https://m.media-amazon.com/images/I/8150KG7y2SL.jpg"
+  },
+  {
+    "id": 4,
+    "titulo": "Shrek",
+    "año": 2001,
+    "duracion": 90,
+    "generos": {"Accion": 0.3, "Comedia": 1.0, "Drama": 0.1, "Sci-Fi": 0.0, "Terror": 0.0, "Fantasia": 0.8},
+    "estado_animo": {"Alegre": 0.8, "Intenso": 0.0, "Reflexivo": 0.0, "Palomero": 0.2},
+    "intensidad": 0.2,
+    "poster": "https://m.media-amazon.com/images/I/71HPEO8A+XL.jpg"
+  },
+  {
+    "id": 5,
+    "titulo": "Parasite",
+    "año": 2019,
+    "duracion": 132,
+    "generos": {"Accion": 0.1, "Comedia": 0.5, "Drama": 1.0, "Sci-Fi": 0.0, "Terror": 0.3, "Fantasia": 0.0},
+    "estado_animo": {"Alegre": 0.0, "Intenso": 0.9, "Reflexivo": 0.1, "Palomero": 0.0},
+    "intensidad": 0.9,
+    "poster": "https://m.media-amazon.com/images/I/91Sru6w1zEL.jpg"
+  },
+  {
+    "id": 6,
+    "titulo": "Interestelar",
+    "año": 2014,
+    "duracion": 169,
+    "generos": {"Accion": 0.3, "Comedia": 0.0, "Drama": 0.8, "Sci-Fi": 1.0, "Terror": 0.0, "Fantasia": 0.1},
+    "estado_animo": {"Alegre": 0.0, "Intenso": 0.6, "Reflexivo": 0.4, "Palomero": 0.0},
+    "intensidad": 0.7,
+    "poster": "https://m.media-amazon.com/images/I/A1JVqNMI7UL._AC_UF894,1000_QL80_.jpg"
+  },
+  {
+    "id": 7,
+    "titulo": "El Viaje de Chihiro",
+    "año": 2001,
+    "duracion": 125,
+    "generos": {"Accion": 0.1, "Comedia": 0.2, "Drama": 0.5, "Sci-Fi": 0.0, "Terror": 0.1, "Fantasia": 1.0},
+    "estado_animo": {"Alegre": 0.4, "Intenso": 0.2, "Reflexivo": 0.4, "Palomero": 0.0},
+    "intensidad": 0.5,
+    "poster": "https://i.ebayimg.com/images/g/zRIAAOSw~u5fC-hQ/s-l1600.jpg"
+  },
+  {
+    "id": 8,
+    "titulo": "Pulp Fiction",
+    "año": 1994,
+    "duracion": 154,
+    "generos": {"Accion": 0.7, "Comedia": 0.8, "Drama": 0.9, "Sci-Fi": 0.0, "Terror": 0.0, "Fantasia": 0.0},
+    "estado_animo": {"Alegre": 0.1, "Intenso": 0.8, "Reflexivo": 0.1, "Palomero": 0.0},
+    "intensidad": 0.8,
+    "poster": "https://m.media-amazon.com/images/I/71c05lTE0GL._AC_UF894,1000_QL80_.jpg"
+  },
+  {
+    "id": 9,
+    "titulo": "Mad Max: Fury Road",
+    "año": 2015,
+    "duracion": 120,
+    "generos": {"Accion": 1.0, "Comedia": 0.0, "Drama": 0.1, "Sci-Fi": 0.8, "Terror": 0.1, "Fantasia": 0.1},
+    "estado_animo": {"Alegre": 0.0, "Intenso": 1.0, "Reflexivo": 0.0, "Palomero": 0.0},
+    "intensidad": 1.0,
+    "poster": "https://m.media-amazon.com/images/I/81A4mY82-GL.jpg"
+  },
+  {
+    "id": 10,
+    "titulo": "¿Qué pasó ayer?",
+    "año": 2009,
+    "duracion": 100,
+    "generos": {"Accion": 0.2, "Comedia": 1.0, "Drama": 0.1, "Sci-Fi": 0.0, "Terror": 0.0, "Fantasia": 0.0},
+    "estado_animo": {"Alegre": 0.3, "Intenso": 0.1, "Reflexivo": 0.0, "Palomero": 0.6},
+    "intensidad": 0.3,
+    "poster": "https://m.media-amazon.com/images/I/81V+b02c2xL._AC_UF894,1000_QL80_.jpg"
+  },
+  {
+    "id": 11,
+    "titulo": "Dune: Part Two",
+    "año": 2024,
+    "duracion": 166,
+    "generos": {"Accion": 0.9, "Comedia": 0.0, "Drama": 0.7, "Sci-Fi": 1.0, "Terror": 0.0, "Fantasia": 0.2},
+    "estado_animo": {"Alegre": 0.0, "Intenso": 0.8, "Reflexivo": 0.2, "Palomero": 0.0},
+    "intensidad": 0.9,
+    "poster": "https://m.media-amazon.com/images/I/81xU58NZS3L.jpg"
+  },
+  {
+    "id": 12,
+    "titulo": "Your Name",
+    "año": 2016,
+    "duracion": 106,
+    "generos": {"Accion": 0.1, "Comedia": 0.5, "Drama": 0.9, "Sci-Fi": 0.3, "Terror": 0.0, "Fantasia": 0.8},
+    "estado_animo": {"Alegre": 0.4, "Intenso": 0.2, "Reflexivo": 0.4, "Palomero": 0.0},
+    "intensidad": 0.6,
+    "poster": "https://m.media-amazon.com/images/I/81vXk2J2m-L.jpg"
+  },
+  {
+    "id": 13,
+    "titulo": "The Godfather",
+    "año": 1972,
+    "duracion": 175,
+    "generos": {"Accion": 0.4, "Comedia": 0.0, "Drama": 1.0, "Sci-Fi": 0.0, "Terror": 0.0, "Fantasia": 0.0},
+    "estado_animo": {"Alegre": 0.0, "Intenso": 0.7, "Reflexivo": 0.3, "Palomero": 0.0},
+    "intensidad": 0.9,
+    "poster": "https://m.media-amazon.com/images/I/714hR85KnQL.jpg"
+  },
+  {
+    "id": 14,
+    "titulo": "Spider-Man: Into the Spider-Verse",
+    "año": 2018,
+    "duracion": 117,
+    "generos": {"Accion": 0.9, "Comedia": 0.7, "Drama": 0.4, "Sci-Fi": 0.5, "Terror": 0.0, "Fantasia": 0.4},
+    "estado_animo": {"Alegre": 0.4, "Intenso": 0.5, "Reflexivo": 0.1, "Palomero": 0.0},
+    "intensidad": 0.7,
+    "poster": "https://m.media-amazon.com/images/I/81oV5Xl4s+L.jpg"
+  },
+  {
+    "id": 15,
+    "titulo": "A Quiet Place",
+    "año": 2018,
+    "duracion": 90,
+    "generos": {"Accion": 0.1, "Comedia": 0.0, "Drama": 0.4, "Sci-Fi": 0.7, "Terror": 1.0, "Fantasia": 0.0},
+    "estado_animo": {"Alegre": 0.0, "Intenso": 1.0, "Reflexivo": 0.0, "Palomero": 0.0},
+    "intensidad": 0.9,
+    "poster": "https://m.media-amazon.com/images/I/81yZgY2MA0L.jpg"
+  },
+  {
+    "id": 16,
+    "titulo": "La La Land",
+    "año": 2016,
+    "duracion": 128,
+    "generos": {"Accion": 0.0, "Comedia": 0.6, "Drama": 0.9, "Sci-Fi": 0.0, "Terror": 0.0, "Fantasia": 0.3},
+    "estado_animo": {"Alegre": 0.6, "Intenso": 0.1, "Reflexivo": 0.3, "Palomero": 0.0},
+    "intensidad": 0.5,
+    "poster": "https://m.media-amazon.com/images/I/91dx8O5VFNL.jpg"
+  },
+  {
+    "id": 17,
+    "titulo": "12 Angry Men",
+    "año": 1957,
+    "duracion": 96,
+    "generos": {"Accion": 0.0, "Comedia": 0.0, "Drama": 1.0, "Sci-Fi": 0.0, "Terror": 0.0, "Fantasia": 0.0},
+    "estado_animo": {"Alegre": 0.0, "Intenso": 0.6, "Reflexivo": 0.4, "Palomero": 0.0},
+    "intensidad": 0.8,
+    "poster": "https://m.media-amazon.com/images/I/81z9zu6sJTL.jpg"
+  },
+  {
+    "id": 18,
+    "titulo": "Guardians of the Galaxy",
+    "año": 2014,
+    "duracion": 121,
+    "generos": {"Accion": 1.0, "Comedia": 0.8, "Drama": 0.2, "Sci-Fi": 0.9, "Terror": 0.0, "Fantasia": 0.5},
+    "estado_animo": {"Alegre": 0.5, "Intenso": 0.2, "Reflexivo": 0.0, "Palomero": 0.3},
+    "intensidad": 0.6,
+    "poster": "https://m.media-amazon.com/images/I/A1uGU-3N5GL.jpg"
+  },
+  {
+    "id": 19,
+    "titulo": "John Wick",
+    "año": 2014,
+    "duracion": 101,
+    "generos": {"Accion": 1.0, "Comedia": 0.0, "Drama": 0.1, "Sci-Fi": 0.0, "Terror": 0.1, "Fantasia": 0.0},
+    "estado_animo": {"Alegre": 0.0, "Intenso": 0.8, "Reflexivo": 0.0, "Palomero": 0.2},
+    "intensidad": 0.9,
+    "poster": "https://m.media-amazon.com/images/I/81F5PF9oH6L.jpg"
+  },
+  {
+    "id": 20,
+    "titulo": "WALL-E",
+    "año": 2008,
+    "duracion": 98,
+    "generos": {"Accion": 0.2, "Comedia": 0.7, "Drama": 0.5, "Sci-Fi": 0.8, "Terror": 0.0, "Fantasia": 0.2},
+    "estado_animo": {"Alegre": 0.6, "Intenso": 0.1, "Reflexivo": 0.3, "Palomero": 0.0},
+    "intensidad": 0.3,
+    "poster": "https://m.media-amazon.com/images/I/71eH1bbIYJL.jpg"
+  },
+  {
+    "id": 21,
+    "titulo": "Superbad",
+    "año": 2007,
+    "duracion": 113,
+    "generos": {"Accion": 0.1, "Comedia": 1.0, "Drama": 0.2, "Sci-Fi": 0.0, "Terror": 0.0, "Fantasia": 0.0},
+    "estado_animo": {"Alegre": 0.7, "Intenso": 0.0, "Reflexivo": 0.0, "Palomero": 0.3},
+    "intensidad": 0.4,
+    "poster": "https://m.media-amazon.com/images/I/71yefy-qMDL.jpg"
+  },
+  {
+    "id": 22,
+    "titulo": "Blade Runner 2049",
+    "año": 2017,
+    "duracion": 164,
+    "generos": {"Accion": 0.6, "Comedia": 0.0, "Drama": 0.7, "Sci-Fi": 1.0, "Terror": 0.0, "Fantasia": 0.1},
+    "estado_animo": {"Alegre": 0.0, "Intenso": 0.5, "Reflexivo": 0.5, "Palomero": 0.0},
+    "intensidad": 0.8,
+    "poster": "https://m.media-amazon.com/images/I/81e36u6G-vL.jpg"
+  },
+  {
+    "id": 23,
+    "titulo": "The Super Mario Bros. Movie",
+    "año": 2023,
+    "duracion": 92,
+    "generos": {"Accion": 0.6, "Comedia": 0.8, "Drama": 0.1, "Sci-Fi": 0.1, "Terror": 0.0, "Fantasia": 0.9},
+    "estado_animo": {"Alegre": 0.7, "Intenso": 0.1, "Reflexivo": 0.0, "Palomero": 0.2},
+    "intensidad": 0.3,
+    "poster": "https://m.media-amazon.com/images/I/71uIOPw4pXL.jpg"
+  },
+  {
+    "id": 24,
+    "titulo": "Pride & Prejudice",
+    "año": 2005,
+    "duracion": 129,
+    "generos": {"Accion": 0.0, "Comedia": 0.3, "Drama": 1.0, "Sci-Fi": 0.0, "Terror": 0.0, "Fantasia": 0.1},
+    "estado_animo": {"Alegre": 0.3, "Intenso": 0.1, "Reflexivo": 0.6, "Palomero": 0.0},
+    "intensidad": 0.4,
+    "poster": "https://m.media-amazon.com/images/I/81onM3Y-iSL.jpg"
+  },
+  {
+    "id": 25,
+    "titulo": "Free Guy",
+    "año": 2021,
+    "duracion": 115,
+    "generos": {"Accion": 0.8, "Comedia": 0.9, "Drama": 0.1, "Sci-Fi": 0.7, "Terror": 0.0, "Fantasia": 0.3},
+    "estado_animo": {"Alegre": 0.6, "Intenso": 0.1, "Reflexivo": 0.0, "Palomero": 0.3},
+    "intensidad": 0.5,
+    "poster": "https://m.media-amazon.com/images/I/81QLh4Du2jL.jpg"
+  },
+  {
+    "id": 26,
+    "titulo": "Knives Out",
+    "año": 2019,
+    "duracion": 130,
+    "generos": {"Accion": 0.2, "Comedia": 0.8, "Drama": 0.7, "Sci-Fi": 0.0, "Terror": 0.1, "Fantasia": 0.0},
+    "estado_animo": {"Alegre": 0.2, "Intenso": 0.4, "Reflexivo": 0.4, "Palomero": 0.0},
+    "intensidad": 0.7,
+    "poster": "https://m.media-amazon.com/images/I/91t-hOBn01L.jpg"
+  },
+  {
+    "id": 27,
+    "titulo": "The Godfather Part II",
+    "año": 1974,
+    "duracion": 202,
+    "generos": {"Accion": 0.4, "Comedia": 0.0, "Drama": 1.0, "Sci-Fi": 0.0, "Terror": 0.0, "Fantasia": 0.0},
+    "estado_animo": {"Alegre": 0.0, "Intenso": 0.7, "Reflexivo": 0.3, "Palomero": 0.0},
+    "intensidad": 0.9,
+    "poster": "https://m.media-amazon.com/images/I/61Nvsx0ggxL.jpg"
+  },
+  {
+    "id": 28,
+    "titulo": "Everything Everywhere All At Once",
+    "año": 2022,
+    "duracion": 139,
+    "generos": {"Accion": 0.8, "Comedia": 0.8, "Drama": 0.6, "Sci-Fi": 0.9, "Terror": 0.0, "Fantasia": 0.7},
+    "estado_animo": {"Alegre": 0.3, "Intenso": 0.4, "Reflexivo": 0.3, "Palomero": 0.0},
+    "intensidad": 0.8,
+    "poster": "https://m.media-amazon.com/images/I/81mB12PJNuL.jpg"
+  }
+]

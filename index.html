@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sistema de Recomendación de Películas con Lógica Difusa</title>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Recomendador de Películas</h1>
+            <p>Usa Lógica Difusa para encontrar tu película ideal</p>
+        </header>
+
+        <main>
+            <div class="controls-card">
+                <h2>Define tus Preferencias</h2>
+                <div class="form-grid">
+                    <div class="control-group" id="genre-controls">
+                        <label>Preferencia de Géneros (0 a 10)</label>
+                        <div class="genre-slider"><span>Acción</span><input type="range" id="genre-accion" min="0" max="10" value="5"></div>
+                        <div class="genre-slider"><span>Comedia</span><input type="range" id="genre-comedia" min="0" max="10" value="5"></div>
+                        <div class="genre-slider"><span>Drama</span><input type="range" id="genre-drama" min="0" max="10" value="5"></div>
+                        <div class="genre-slider"><span>Sci-Fi</span><input type="range" id="genre-scifi" min="0" max="10" value="5"></div>
+                        <div class="genre-slider"><span>Terror</span><input type="range" id="genre-terror" min="0" max="10" value="5"></div>
+                        <div class="genre-slider"><span>Fantasía</span><input type="range" id="genre-fantasia" min="0" max="10" value="5"></div>
+                    </div>
+
+                    <div class="control-group">
+                        <label for="mood-select">¿Qué estado de ánimo buscas?</label>
+                        <select id="mood-select">
+                            <option value="Alegre">Alegre / Divertido</option>
+                            <option value="Intenso">Intenso / Emocionante</option>
+                            <option value="Reflexivo">Reflexivo / Profundo</option>
+                            <option value="Palomero">Palomero / Simple</option>
+                        </select>
+                    </div>
+                     <div class="control-group">
+                        <label for="time-select">¿De cuánto tiempo dispones?</label>
+                        <select id="time-select">
+                            <option value="Corto">Corto (menos de 1h 30m)</option>
+                            <option value="Medio">Medio (1h 30m - 2h 30m)</option>
+                            <option value="Largo">Largo (más de 2h 30m)</option>
+                        </select>
+                    </div>
+                     <div class="control-group">
+                        <label for="intensity-select">Nivel de intensidad de la trama</label>
+                        <select id="intensity-select">
+                            <option value="Ligera">Ligera</option>
+                            <option value="Moderada">Moderada</option>
+                            <option value="Alta">Alta</option>
+                        </select>
+                    </div>
+                    <div class="control-group">
+                        <label for="recency-select">Preferencia de novedad</label>
+                        <select id="recency-select">
+                            <option value="Estreno">Estreno (últimos 2 años)</option>
+                            <option value="Reciente">Reciente (última década)</option>
+                            <option value="Clasico">Clásico (más antiguo)</option>
+                        </select>
+                    </div>
+                </div>
+                 <button id="recommend-btn">Encontrar mi Película</button>
+            </div>
+
+            <div class="results-card">
+                <h2>Recomendaciones para ti</h2>
+                <div id="results-container">
+                    <p class="placeholder">Tus películas recomendadas aparecerán aquí...</p>
+                </div>
+            </div>
+        </main>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
