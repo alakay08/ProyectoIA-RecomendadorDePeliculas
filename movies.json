@@ -278,5 +278,225 @@
     "estado_animo": {"Alegre": 0.3, "Intenso": 0.4, "Reflexivo": 0.3, "Palomero": 0.0},
     "intensidad": 0.8,
     "poster": "https://m.media-amazon.com/images/I/81mB12PJNuL.jpg"
-  }
+  },
+{
+  "id": 29,
+  "titulo": "Inception",
+  "año": 2010,
+  "duracion": 148,
+  "generos": {"Accion": 0.9, "Comedia": 0.1, "Drama": 0.7, "Sci-Fi": 1.0, "Terror": 0.0, "Fantasia": 0.2},
+  "estado_animo": {"Alegre": 0.2, "Intenso": 0.9, "Reflexivo": 0.4, "Palomero": 0.1},
+  "intensidad": 0.9,
+  "poster": ""
+},
+{
+  "id": 30,
+  "titulo": "Coco",
+  "año": 2017,
+  "duracion": 105,
+  "generos": {"Accion": 0.2, "Comedia": 0.7, "Drama": 0.8, "Sci-Fi": 0.0, "Terror": 0.0, "Fantasia": 1.0},
+  "estado_animo": {"Alegre": 0.8, "Intenso": 0.2, "Reflexivo": 0.3, "Palomero": 0.4},
+  "intensidad": 0.5,
+  "poster": ""
+},
+{
+  "id": 31,
+  "titulo": "Joker",
+  "año": 2019,
+  "duracion": 122,
+  "generos": {"Accion": 0.5, "Comedia": 0.0, "Drama": 1.0, "Sci-Fi": 0.0, "Terror": 0.3, "Fantasia": 0.0},
+  "estado_animo": {"Alegre": 0.0, "Intenso": 1.0, "Reflexivo": 0.5, "Palomero": 0.0},
+  "intensidad": 0.9,
+  "poster": ""
+},
+{
+  "id": 32,
+  "titulo": "Frozen",
+  "año": 2013,
+  "duracion": 102,
+  "generos": {"Accion": 0.3, "Comedia": 0.6, "Drama": 0.4, "Sci-Fi": 0.0, "Terror": 0.0, "Fantasia": 1.0},
+  "estado_animo": {"Alegre": 0.7, "Intenso": 0.2, "Reflexivo": 0.1, "Palomero": 0.5},
+  "intensidad": 0.4,
+  "poster": ""
+},
+{
+  "id": 33,
+  "titulo": "Avengers: Endgame",
+  "año": 2019,
+  "duracion": 181,
+  "generos": {"Accion": 1.0, "Comedia": 0.3, "Drama": 0.6, "Sci-Fi": 1.0, "Terror": 0.0, "Fantasia": 0.4},
+  "estado_animo": {"Alegre": 0.3, "Intenso": 1.0, "Reflexivo": 0.3, "Palomero": 0.2},
+  "intensidad": 1.0,
+  "poster": ""
+},
+{
+  "id": 34,
+  "titulo": "Ratatouille",
+  "año": 2007,
+  "duracion": 111,
+  "generos": {"Accion": 0.2, "Comedia": 0.9, "Drama": 0.6, "Sci-Fi": 0.0, "Terror": 0.0, "Fantasia": 0.5},
+  "estado_animo": {"Alegre": 0.8, "Intenso": 0.2, "Reflexivo": 0.2, "Palomero": 0.4},
+  "intensidad": 0.4,
+  "poster": ""
+},
+{
+  "id": 35,
+  "titulo": "The Social Network",
+  "año": 2010,
+  "duracion": 120,
+  "generos": {"Accion": 0.2, "Comedia": 0.1, "Drama": 1.0, "Sci-Fi": 0.0, "Terror": 0.0, "Fantasia": 0.0},
+  "estado_animo": {"Alegre": 0.1, "Intenso": 0.6, "Reflexivo": 0.7, "Palomero": 0.1},
+  "intensidad": 0.6,
+  "poster": ""
+},
+{
+  "id": 36,
+  "titulo": "Encanto",
+  "año": 2021,
+  "duracion": 99,
+  "generos": {"Accion": 0.3, "Comedia": 0.8, "Drama": 0.6, "Sci-Fi": 0.0, "Terror": 0.0, "Fantasia": 0.9},
+  "estado_animo": {"Alegre": 0.9, "Intenso": 0.2, "Reflexivo": 0.2, "Palomero": 0.4},
+  "intensidad": 0.4,
+  "poster": ""
+},
+{
+  "id": 37,
+  "titulo": "The Wolf of Wall Street",
+  "año": 2013,
+  "duracion": 180,
+  "generos": {"Accion": 0.4, "Comedia": 0.8, "Drama": 1.0, "Sci-Fi": 0.0, "Terror": 0.0, "Fantasia": 0.1},
+  "estado_animo": {"Alegre": 0.5, "Intenso": 0.8, "Reflexivo": 0.4, "Palomero": 0.3},
+  "intensidad": 0.8,
+  "poster": ""
+},
+{
+  "id": 38,
+  "titulo": "Interstellar",
+  "año": 2014,
+  "duracion": 169,
+  "generos": {"Accion": 0.5, "Comedia": 0.0, "Drama": 0.8, "Sci-Fi": 1.0, "Terror": 0.0, "Fantasia": 0.1},
+  "estado_animo": {"Alegre": 0.0, "Intenso": 0.7, "Reflexivo": 0.5, "Palomero": 0.0},
+  "intensidad": 0.9,
+  "poster": ""
+},
+{
+  "id": 39,
+  "titulo": "Zootopia",
+  "año": 2016,
+  "duracion": 108,
+  "generos": {"Accion": 0.3, "Comedia": 1.0, "Drama": 0.4, "Sci-Fi": 0.0, "Terror": 0.0, "Fantasia": 0.6},
+  "estado_animo": {"Alegre": 0.9, "Intenso": 0.3, "Reflexivo": 0.2, "Palomero": 0.5},
+  "intensidad": 0.4,
+  "poster": ""
+},
+{
+  "id": 40,
+  "titulo": "Soul",
+  "año": 2020,
+  "duracion": 100,
+  "generos": {"Accion": 0.1, "Comedia": 0.4, "Drama": 1.0, "Sci-Fi": 0.1, "Terror": 0.0, "Fantasia": 0.3},
+  "estado_animo": {"Alegre": 0.5, "Intenso": 0.2, "Reflexivo": 0.7, "Palomero": 0.1},
+  "intensidad": 0.5,
+  "poster": ""
+},
+{
+  "id": 41,
+  "titulo": "Black Panther",
+  "año": 2018,
+  "duracion": 134,
+  "generos": {"Accion": 0.9, "Comedia": 0.2, "Drama": 0.7, "Sci-Fi": 1.0, "Terror": 0.0, "Fantasia": 0.5},
+  "estado_animo": {"Alegre": 0.4, "Intenso": 0.9, "Reflexivo": 0.3, "Palomero": 0.2},
+  "intensidad": 0.8,
+  "poster": ""
+},
+{
+  "id": 42,
+  "titulo": "The Lion King",
+  "año": 1994,
+  "duracion": 88,
+  "generos": {"Accion": 0.5, "Comedia": 0.7, "Drama": 0.8, "Sci-Fi": 0.0, "Terror": 0.0, "Fantasia": 0.9},
+  "estado_animo": {"Alegre": 0.8, "Intenso": 0.4, "Reflexivo": 0.3, "Palomero": 0.5},
+  "intensidad": 0.5,
+  "poster": ""
+},
+{
+  "id": 43,
+  "titulo": "The Truman Show",
+  "año": 1998,
+  "duracion": 103,
+  "generos": {"Accion": 0.2, "Comedia": 0.6, "Drama": 0.8, "Sci-Fi": 0.1, "Terror": 0.0, "Fantasia": 0.3},
+  "estado_animo": {"Alegre": 0.3, "Intenso": 0.3, "Reflexivo": 0.6, "Palomero": 0.3},
+  "intensidad": 0.5,
+  "poster": ""
+},
+{
+  "id": 44,
+  "titulo": "Big Hero 6",
+  "año": 2014,
+  "duracion": 102,
+  "generos": {"Accion": 0.6, "Comedia": 0.8, "Drama": 0.5, "Sci-Fi": 1.0, "Terror": 0.0, "Fantasia": 0.4},
+  "estado_animo": {"Alegre": 0.7, "Intenso": 0.4, "Reflexivo": 0.3, "Palomero": 0.4},
+  "intensidad": 0.7,
+  "poster": ""
+},
+{
+  "id": 45,
+  "titulo": "Toy Story",
+  "año": 1995,
+  "duracion": 81,
+  "generos": {"Accion": 0.4, "Comedia": 1.0, "Drama": 0.3, "Sci-Fi": 0.2, "Terror": 0.0, "Fantasia": 0.7},
+  "estado_animo": {"Alegre": 0.9, "Intenso": 0.2, "Reflexivo": 0.1, "Palomero": 0.4},
+  "intensidad": 0.4,
+  "poster": ""
+},
+{
+  "id": 46,
+  "titulo": "Whiplash",
+  "año": 2014,
+  "duracion": 107,
+  "generos": {"Accion": 0.2, "Comedia": 0.0, "Drama": 1.0, "Sci-Fi": 0.0, "Terror": 0.0, "Fantasia": 0.0},
+  "estado_animo": {"Alegre": 0.0, "Intenso": 0.9, "Reflexivo": 0.5, "Palomero": 0.0},
+  "intensidad": 0.9,
+  "poster": ""
+},
+{
+  "id": 47,
+  "titulo": "Inside Out",
+  "año": 2015,
+  "duracion": 95,
+  "generos": {"Accion": 0.2, "Comedia": 0.9, "Drama": 0.7, "Sci-Fi": 0.0, "Terror": 0.0, "Fantasia": 0.8},
+  "estado_animo": {"Alegre": 0.7, "Intenso": 0.3, "Reflexivo": 0.4, "Palomero": 0.4},
+  "intensidad": 0.4,
+  "poster": ""
+},
+{
+  "id": 48,
+  "titulo": "The Irishman",
+  "año": 2019,
+  "duracion": 209,
+  "generos": {"Accion": 0.3, "Comedia": 0.0, "Drama": 1.0, "Sci-Fi": 0.0, "Terror": 0.0, "Fantasia": 0.0},
+  "estado_animo": {"Alegre": 0.0, "Intenso": 0.8, "Reflexivo": 0.5, "Palomero": 0.0},
+  "intensidad": 0.8,
+  "poster": ""
+},
+{
+  "id": 49,
+  "titulo": "Luca",
+  "año": 2021,
+  "duracion": 95,
+  "generos": {"Accion": 0.2, "Comedia": 0.7, "Drama": 0.4, "Sci-Fi": 0.0, "Terror": 0.0, "Fantasia": 1.0},
+  "estado_animo": {"Alegre": 0.8, "Intenso": 0.2, "Reflexivo": 0.3, "Palomero": 0.4},
+  "intensidad": 0.4,
+  "poster": ""
+},
+{
+  "id": 50,
+  "titulo": "The Grand Budapest Hotel",
+  "año": 2014,
+  "duracion": 99,
+  "generos": {"Accion": 0.3, "Comedia": 0.9, "Drama": 0.7, "Sci-Fi": 0.0, "Terror": 0.0, "Fantasia": 0.3},
+  "estado_animo": {"Alegre": 0.6, "Intenso": 0.4, "Reflexivo": 0.3, "Palomero": 0.3},
+  "intensidad": 0.6,
+  "poster": ""
+}
 ]
